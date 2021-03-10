@@ -1,0 +1,6 @@
+/cmake-build-gba/
+/.idea/
+template.pnproj
+/build/
+*.elf
+*.gba
